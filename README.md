@@ -1,4 +1,4 @@
-# HyperionDev Freelance Code Reviewer Take-Home Test - THT-Submission: Marc Marais
+# HyperionDev Freelance Code Reviewer Take-Home Test - THT-Submission
 
 ### Section A: Code Review
 Can be found in the relevant folder
