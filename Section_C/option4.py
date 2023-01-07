@@ -1,4 +1,3 @@
-# import numpy as np
 import unittest
 
 # isbn10 verfication multiply each digit with the corresponding number in the multiplyArray
