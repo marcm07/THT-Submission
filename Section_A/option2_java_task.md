@@ -25,14 +25,14 @@ Aim of the task:
 ### Style
 - Class names should begin with a capital letter i.e Recursion class in line 1 
 - Correct Naming conventions utilised for variables 
-- For loop on line 36 shoudl be indented
+- For loop on line 36 should be indented
 
 ### Documentation
 Good use of documentation overall a  few poitners though:
     - comment on line 5 is unnecessary, the varibale name tells the user that it is the input string
     - comment on line 9 is vague what mehtod is being created and what parameter is being passed?  
     - no comment explaining the responsibility of the function on line 28
-    - good comment explain the for loop on lines 38-40, you can also utilsie a multi-lien comment using /* **insert comment here** */ 
+    - good comment explain the for loop on lines 38-40, you can also utilsie a multi-line comment as follows: /* **insert comment here** */ . 
 
 ## Overall comment
 This is a good attempt and solving the two functions required with a few improvements mentioned above. Please feel free to ask if you need any clarity. 
